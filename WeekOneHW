@@ -1,0 +1,53 @@
+<!-- WEEK ONE HOMEWORK -->
+<!-- PART TWO -->
+<!DOCTYPE html>
+    <html>
+    <head>
+        <title>Pet Store</title>
+    </head>
+    <body>
+        <header>
+            <h1>Paws &amp; Claws</h1>
+            <nav>
+                <a href="#dogs">Dogs</a>
+                <a href="#cats">Cats</a>
+            </nav>
+        </header>
+        <main>
+            <section id="dogs">
+                <h2>Dogs</h2>
+                <ul>
+                    <li>Golden Retriever</li>
+                    <li>Poodle</li>
+                </ul>
+            </section>
+            <img src="puppy.jpg" alt="A cute golden retriever puppy">
+        </main>
+        <footer>
+            <p>&copy; 2025 Paws &amp; Claws</p>
+        </footer>
+    </body>
+    </html>
+
+<!-- PART ONE -->
+    <!-- The Broken Code 
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>My Page</title>
+    </head>
+    <body>
+        <div>
+        <h1>Welcome<h1>
+            <p>This is my site
+            <img src="photo.jpg">
+            <ul>
+                <li>Item one
+                <li>Item two</li>
+            </ul>
+            <a href="about.html">Learn more</a>
+            </p>
+        </div>
+    </body>
+    </html> 
+    -->
