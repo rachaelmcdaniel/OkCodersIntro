@@ -12,3 +12,13 @@
     <!-- visible content goes here -->
 </body>
 </html>
+
+<!-- 
+git add <file> | update what will be committed
+git restore <file> | discared changes
+git restore --staged <file> | to unstage
+git commit -m <file> | commit branch
+git branch -M main | commit to main
+git status | tells you what branch
+git push -u origin main | push to main
+-->
