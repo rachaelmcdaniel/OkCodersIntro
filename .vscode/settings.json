@@ -1,0 +1,6 @@
+{
+    "editor.aiStats.enabled": false,
+    "editor.allowVariableLineHeights": false,
+    "editor.allowVariableFonts": false,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true
+}
